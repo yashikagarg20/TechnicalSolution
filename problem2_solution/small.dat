@@ -1,0 +1,3 @@
+root FFFS CONFIG BASE subdir personal
+subdir SUBFILE TEMP TTT
+personal PHOTOS ivan
